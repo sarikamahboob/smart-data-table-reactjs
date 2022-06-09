@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,800;0,900;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,800;0,900;1,700&family=Saira+Condensed:wght@400;500;700&display=swap');
+
+.rdt_TableHead{
+    font-weight: 700 !important;
+    color: #F97316 !important;
+    font-size: 18px !important;
+    font-family: 'Poppins', sans-serif;
+}
+.rdt_TableHeadRow{
+    background-color: #fcf6e8 !important;
+}
+
+.rdt_TableBody{
+    font-family: 'Poppins', sans-serif;
+}
