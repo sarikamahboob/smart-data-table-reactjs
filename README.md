@@ -27,3 +27,5 @@ Live Website Link: [Smart Data Table](https://smart-data-table.web.app/).
 - HTML
 - CSS
 - Firebase
+
+https://user-images.githubusercontent.com/67600048/172920311-4c9c548d-8faa-4be9-950f-5f2535472b13.mp4
